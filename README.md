@@ -1,4 +1,4 @@
-# datafun-01-utils
+# datafun-02-automation
 
 Reusable module for my Data Analytics Python projects
 
