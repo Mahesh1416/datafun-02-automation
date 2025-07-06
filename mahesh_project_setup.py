@@ -26,7 +26,7 @@ import loguru
 sys.path.append(str(pathlib.Path(__file__).resolve().parent))
 
 # Import local modules
-# TODO: Import your module in the line below instead
+# Import your module in the line below instead
 import utils_mahesh
 
 #####################################
@@ -158,8 +158,8 @@ def create_prefixed_folders_using_list_comprehension(folder_list: list, prefix: 
 
 
 
-    # TODO: Implement this function professionally and remove the temporary pass.
-    # TODO: Use a list comprehension to create the folder names.
+    # Implement this function professionally and remove the temporary pass.
+    # Use a list comprehension to create the folder names.
     pass
 
   
